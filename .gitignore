@@ -1,8 +1,7 @@
 # Dependências
 node_modules/
 
-# Build
-dist/
+# Build (dist/ é versionado de propósito)
 dist-ssr/
 
 # Variáveis de ambiente (manter apenas o .env.example)
